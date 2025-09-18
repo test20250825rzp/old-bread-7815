@@ -1,7 +1,7 @@
 {
   "name": "react-chatbot-template",
   "assets": {
-    "directory": "/src/assets",
+    "directory": "/src/",
     "notFoundStrategy": "singlePageApplication"
   }
 }
